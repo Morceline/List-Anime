@@ -1,0 +1,32 @@
+body {
+    font: normal 15px arial;
+    background-image: url('/prova-erm/images/inicio.jpeg');
+  background-attachment: fixed;
+  background-position: center center;
+    
+}
+h1 {
+    color: chocolate;
+    text-align: center;
+    text-shadow: 5px 5px 10px rgba(208, 255, 0, 0.6);
+    font-style: italic;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    border-radius: 30px;
+    background-size: auto;
+    background-position: left top;
+    padding: 20px;
+   
+}
+
+div#botãoi {
+    text-align: center;
+    padding: 30px;
+    
+
+}
+
+

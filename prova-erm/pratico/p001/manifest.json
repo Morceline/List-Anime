@@ -1,0 +1,29 @@
+{
+    "name": "Anime List",
+    "short_name": "Animes",
+    "description": "Lista de sugestão de animes com links para assisti-los.",
+    "start_url":"/prova-erm/pratico/p001/inicio.html", 
+    "display": "standalone",
+    "display-override":["fullscreen", "standalone"],
+    "background_color": "rgb(18, 17, 17)",
+    "theme_color": "rgba(138, 218, 217, 0.836)",
+    "icons": [
+      {
+        "src": "/prova-erm/images/foto-gojo.jpeg",
+        "sizes": "200x365",
+        "type": "image/jpeg"
+      },
+      {
+        "src": "/prova-erm/images/foto-onepiece.jpeg",
+        "sizes": "200x356",
+        "type": "image/jpeg"
+      }, 
+      {
+        "src": "/prova-erm/images/foto-nezuko.jpeg",
+        "sizes": "200x200",
+        "type": "image/jpeg"
+      }
+    ],
+    "lang": "pt-br"
+  }
+  
